@@ -1,6 +1,6 @@
 /*
 *
-* The Run program.
+* The Asterisks program.
 *
 *
 * @author Jakob

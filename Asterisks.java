@@ -57,8 +57,9 @@ final class Asterisks {
 
             System.out.println(output);
 
-            asterisks(integer - 1, spacesNum + 1);
-
+            if (integer > 1) {
+                asterisks(integer - 1, spacesNum + 1);
+            }
             System.out.println(output);
         }
     }
